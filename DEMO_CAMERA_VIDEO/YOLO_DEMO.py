@@ -19,7 +19,7 @@ while cap.isOpened():
     if not success:
         break
     if choice == 'c':
-        frame = cv2.flip(frame, 1)
+        frame = cv2.flip(frame, 1) #Պատկերի հայելիականության վերացում(ուղղում)
     results = model.predict(frame, device='cpu')
     annotated_frame = results[0].plot()
 
