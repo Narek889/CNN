@@ -174,12 +174,5 @@ Important: GPL-3.0 is a copyleft license. By using GPL-3.0 you agree that any di
 ## Contact
 Please update these contact details with your preferred electronic and paper-mail contact information.
 
-- Electronic mail: replace-with-your-email@example.com
-- Paper mail:
-  Your Name
-  Street Address
-  City, State/Province
-  Postal Code
-  Country
-
-If you want, tell me the email and postal address you prefer and I will update the README and add a short header notice for source files as recommended by the GPL.
+- Electronic mail: stepanyan_narek@protonmail.com
+- Armenia
